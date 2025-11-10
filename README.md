@@ -10,9 +10,9 @@ At the same time, this repository is available for anyone who wants to **learn, 
 
 This repository is designed to:
 
-- **Document concepts**: Keep track of all the DSA topics I study, with clear explanations and notes.  
-- **Provide practical examples**: Include code implementations for each concept, so theory is supported by practice.  
-- **Facilitate revision**: Create a structured resource that can be used for quick reference and review.  
+- **Document concepts**: Keep track of all the DSA topics I study, with clear explanations and notes.
+- **Provide practical examples**: Include code implementations for each concept, so theory is supported by practice.
+- **Facilitate revision**: Create a structured resource that can be used for quick reference and review.
 - **Share knowledge**: Allow others to follow along, learn, and benefit from organized notes.
 
 This is an **ongoing repository**, meaning topics will be added progressively as I learn and practice new concepts.
@@ -21,11 +21,12 @@ This is an **ongoing repository**, meaning topics will be added progressively as
 
 Here is where I will link and organize the topics as I add notes and code:
 
-[Topic 1]()  
-[Topic 2]()  
-[Topic 3]()  
+| **Lecture No.** | **Topic**                                                     |
+| --------------- | ------------------------------------------------------------- |
+| **Lecture 01**  | [Flowchart & Pseudocode](./01-flowchart-pseudocode/README.md) |
 
-***More topics will be added as I learn and take notes.***
+
+> **More topics will be added as I learn and take notes.**
 
 ## How to Clone
 
