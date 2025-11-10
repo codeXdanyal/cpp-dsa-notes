@@ -25,7 +25,7 @@ Here is where I will link and organize the topics as I add notes and code:
 | --------------- | ------------------------------------------------------------- |
 | **Lecture 01**  | [Flowchart & Pseudocode](./01-flowchart-pseudocode/README.md) |
 
-
+> [!NOTE]
 > **More topics will be added as I learn and take notes.**
 
 ## How to Clone
